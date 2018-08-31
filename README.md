@@ -12,4 +12,4 @@ https://medium.com/evenbit/building-a-slack-app-with-firebase-as-a-backend-151c1
 
 All the best guys. :thumbsup:
 
-> For any query contact @PramodBharti.and in slack or post in #slack_help channel.
+> For any query contact **@PramodBharti.and** in slack or post in **#slack_help** channel.
