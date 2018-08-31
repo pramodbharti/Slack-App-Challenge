@@ -1,1 +1,1 @@
-# Slack-App-Challenge
+# Slack App Challenge
